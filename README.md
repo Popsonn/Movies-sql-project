@@ -21,3 +21,12 @@ This dataset was obtained from [Twitter](https://twitter.com/phemmylasode/status
 
 # Question 7: List of advisor and investor names in one table. Indicate whether they are an investor or an advisor. If they are an investor, include the company they work with.
 ![Solution 7](https://github.com/Popsonn/Movies-sql-project/blob/main/Solution%207.png)
+
+# Question 8a: of all actors with three types of awards,for what % of them do we carry a film? 
+![Solution 8a](https://github.com/Popsonn/Movies-sql-project/blob/main/Solution%208(a).png)
+
+# Question 8b: of all actors with two types of awards,for what % of them do we carry a film?
+![Solution 8b](https://github.com/Popsonn/Movies-sql-project/blob/main/Solution%208(b).png)
+
+# Question 8c: of all actors with one type of award,for what % of them do we carry a film?
+![Solution 8c](https://github.com/Popsonn/Movies-sql-project/blob/main/Solution%208(c).png)
